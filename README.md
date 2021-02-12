@@ -1,1 +1,2 @@
-# vk2.com
+# vk.com
+by Damir
